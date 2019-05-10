@@ -1,5 +1,5 @@
-Package: com.sukarodo.samplepackage
-Version: 1.0
+Package: com.f0u4d.watusitools
+Version: 2.0.13
 Architecture: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 Maintainer: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 Filename: https://apt.fouadraheb.com/Package/com.f0u4d.watusitools.deb
@@ -8,7 +8,7 @@ MD5sum: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 SHA1: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 SHA256: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 Section: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Description: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
+Description: https://apt.fouadraheb.com/Package/com.f0u4d.watusitools
 SileoDepiction: https://apt.fouadraheb.com/Package/com.f0u4d.watusitools
 Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
 Installed-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
