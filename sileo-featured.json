@@ -4,15 +4,15 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://apt.c2.ae/resources/package-icons/iconwhats_LFyd3MC.png",
-         "title":"title of banner",
-         "package":"bundle id of package",
+         "url":"https://sparkdev.me/sileo/header-image/com.spark.snowboard",
+         "title":"Snowboard",
+         "package":"com.spark.snowboard",
          "hideShadow":false
       },
       {  
-         "url":"https://apt.c2.ae/resources/package-icons/iconwhats_LFyd3MC.png",
-         "title":"title of banner",
-         "package":"bundle id of package",
+         "url":"https://sparkdev.me/sileo/header-image/com.spark.melior",
+         "title":"Melior",
+         "package":"com.spark.melior",
          "hideShadow":false
       },
    ]
