@@ -40,3 +40,24 @@ Size: 442628
 Filename: https://www.sparkdev.me/download/com.spark.snowboard/1.1.6.deb
 Icon: https://sparkdev.me/package-logo/com.spark.snowboard
 Tag: purpose::extension
+
+Package: com.spark.melior
+Name: Melior
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Architecture: iphoneos-arm
+Description: Custom volume HUD
+Depiction: https://www.sparkdev.me/package/com.spark.melior
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.0.9-6
+Installed-Size: 840
+SHA256: 86e1b0a880751c4149971fe90dbb2ceb8679ab3b125d86f9d1ada9f4dc8d8cd3
+SHA1: d18cf698db34ca2ed20058ad20a6f871bbe7b5b8
+MD5sum: d593ca4668c8a071f10f114d08a6aa15
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.melior
+Size: 172568
+Filename: https://www.sparkdev.me/download/com.spark.melior/1.0.9-6.deb
+Icon: https://sparkdev.me/package-logo/com.spark.melior
+Tag: purpose::extension
