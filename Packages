@@ -2,7 +2,7 @@ Package: com.sukarodo.samplepackage
 Version: 1.0
 Architecture: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 Maintainer: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Filename: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
+Filename: https://apt.fouadraheb.com/Package/com.f0u4d.watusitools
 Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 MD5sum: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 SHA1: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
@@ -12,5 +12,5 @@ Description: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 SileoDepiction: https://developer7769.github.io/repo-sileo-design/sileodepictions/com.sukarodo.samplepackage/depiction.json
 Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
 Installed-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Name: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
+Name: Watusi for WhatsApp
 Priority: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
