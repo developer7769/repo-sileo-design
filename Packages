@@ -14,3 +14,23 @@ Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually En
 Installed-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
 Name: Watusi for WhatsApp
 Priority: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
+
+Package: com.spark.hyperion
+Name: Hyperion
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: OLED notification tweak
+Depiction: https://www.sparkdev.me/package/com.spark.hyperion
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.4.12-2
+Installed-Size: 3960
+SHA256: 55aae5a6af2f47a589b651fecd55250535e054473519e95fa0b971effa210d05
+SHA1: 4dc61713aed5866a6cafa5f343cc0c7d6850f493
+MD5sum: c27b3ef0352f2624a28c907969bb9dfc
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.hyperion
+Size: 2014676
+Filename: https://www.sparkdev.me/download/com.spark.hyperion/0.4.12-2.deb
+Icon: https://sparkdev.me/package-logo/com.spark.hyperion
+Tag: purpose::extension, cydia::commercial
