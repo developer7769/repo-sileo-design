@@ -1,20 +1,3 @@
-Package: com.f0u4d.watusitools
-Version: 2.0.13
-Architecture: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Maintainer: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Filename: https://apt.fouadraheb.com/Package/com.f0u4d.watusitools.deb
-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-MD5sum: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-SHA1: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-SHA256: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Section: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Description: https://apt.fouadraheb.com/Package/com.f0u4d.watusitools
-SileoDepiction: https://apt.fouadraheb.com/Package/com.f0u4d.watusitools/
-Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
-Installed-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Name: Watusi for WhatsApp
-Priority: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-
 Package: com.spark.hyperion
 Name: Hyperion
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
@@ -34,3 +17,26 @@ Size: 2014676
 Filename: https://www.sparkdev.me/download/com.spark.hyperion/0.4.12-2.deb
 Icon: https://sparkdev.me/package-logo/com.spark.hyperion
 Tag: purpose::extension, cydia::commercial
+
+Package: com.spark.snowboard
+Name: SnowBoard
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.1.6
+Installed-Size: 1636
+SHA256: 41a66b7765be1f1b92464b92134cbb52fc8ebcf5e6439970bff06b1dc3991100
+SHA1: 24f8b128e0fd903cce70adf1abb69b6cb8a8bfed
+MD5sum: 0c28a4b7b421b23ff9bb0f2822b23c99
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard
+Size: 442628
+Filename: https://www.sparkdev.me/download/com.spark.snowboard/1.1.6.deb
+Icon: https://sparkdev.me/package-logo/com.spark.snowboard
+Tag: purpose::extension
