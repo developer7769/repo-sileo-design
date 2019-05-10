@@ -9,7 +9,14 @@
         "package": "com.f0u4d.watusitools",
         "hideShadow": false
     }
-        {
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
         "url": "https://apt.c2.ae/resources/package-icons/iconwhats_LFyd3MC.png",
         "title": "Watusi 2 for WhatsApp",
         "package": "com.f0u4d.watusitools",
