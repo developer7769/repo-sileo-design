@@ -24,7 +24,7 @@ Edit `Release` file. Modify the items pointed by `<--`
 **Branding**
 
 Open `index.html`
-Change <title>Sidia</title> to whatever you wish.
+Change <title>Repo-sileo-design</title> to whatever you wish.
 Change lines 54 - 63 to whatever you wish.
 Change line 71 into your own URL.
 Note: YOU DO NOT NEED THIS. YOU CAN ALSO MAKE YOUR OWN. DO WHAT YOU WISH.
