@@ -1,4 +1,4 @@
-# Sidia (Based On Reposi3)
+# repo-sileo-design (Based On Reposi3)
 A Sileo / Cydia repository template. This template contains samples on how you can easily make depiction pages without replicating your html pages. The pages are styled using [Bootsrap](http://getbootstrap.com/) which is really easy to use (for Cydia), and the Sileo pages are styled using JavaScript Object Notation.
 
 This guide does NOT cover creating .deb files but will briefly cover assiging depictions.
